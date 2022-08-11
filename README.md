@@ -252,3 +252,9 @@ As always - comments welcome.
 
 -- Dr. Chuck
 Sun Sep 29 00:11:01 EDT 2013
+
+ASSIGNMENT : In this assignment you will download some of the mailing list data from http://mbox.dr-chuck.net/ and run the data cleaning / modeling process and take some screen shots. All screenshots should use the same data set.
+
+SOLUTION :
+![1](https://user-images.githubusercontent.com/89823572/184165396-a18f9dad-9779-422e-aba6-4ae494ff5498.jpg)
+![2](https://user-images.githubusercontent.com/89823572/184165415-a1d770c6-892e-48ec-a985-b6b353c1f9b0.jpg)
