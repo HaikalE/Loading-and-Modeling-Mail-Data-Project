@@ -256,5 +256,14 @@ Sun Sep 29 00:11:01 EDT 2013
 ASSIGNMENT : In this assignment you will download some of the mailing list data from http://mbox.dr-chuck.net/ and run the data cleaning / modeling process and take some screen shots. All screenshots should use the same data set.
 
 SOLUTION :
-![1](https://user-images.githubusercontent.com/89823572/184165396-a18f9dad-9779-422e-aba6-4ae494ff5498.jpg)
-![2](https://user-images.githubusercontent.com/89823572/184165415-a1d770c6-892e-48ec-a985-b6b353c1f9b0.jpg)
+1. A screen shot of your SQLiteBrowser showing messages downloaded from mbox.dr-chuck.net into the content.sqlite database including all data fields and the bottom of sqlite browser.
+![image](https://user-images.githubusercontent.com/89823572/184168328-d4b3f466-98c4-41f2-95ce-737a51dc4ac6.png)
+
+2. A screen shot of you running the gmodel.py application to produce the index.sqlite database. Please include the allsenders line at the beginning of the output. Please do not include code in the screenshot.
+![2](https://user-images.githubusercontent.com/89823572/184169495-c55a1e6a-5d74-4e34-ac9f-92d2a6a271c0.jpg)
+
+3. A screen shot of your SQLiteBrowser showing messages in the index.sqlite database after the gmodel.py has executed including all data fields and the bottom of sqlite browser.
+![image](https://user-images.githubusercontent.com/89823572/184169633-75ec7dab-4b50-468d-a26f-96377002bf4f.png)
+
+4. A screen shot of you running the gbasic.py program to compute basic histogram data on the messages you have retrieved. Please include the "How many to dump" and "Loaded messages" lines in the output. For a dump number, please use a number less than 25. Do not include code in the screenshot.
+![image](https://user-images.githubusercontent.com/89823572/184169824-e117c6ad-ddfc-48d1-846f-7bd6b68f0dbc.png)
